@@ -10,7 +10,7 @@ const TIMELINE_DATA = [
     description:
       "Ньепс получил первое сохранившееся изображение с натуры — вид из окна его рабочего кабинета в Бургундии. Выдержка составила около 8 часов. Техника называлась гелиографией.",
     quote: "Природа сама рисует себя светом.",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/1826_NiepceTakenFromGraslin.png/800px-1826_NiepceTakenFromGraslin.png",
+    image: "https://cdn.poehali.dev/projects/7c3e8a2d-9a1e-4962-b27a-20102d9e796f/files/ee661c39-a313-422b-8188-39b2b1e69387.jpg",
     imageCaption: "Вид из окна в Ле-Гра, 1826",
     imageNote: "Выдержка длилась около 8 часов — поэтому солнце освещает обе стороны зданий",
     type: "milestone",
