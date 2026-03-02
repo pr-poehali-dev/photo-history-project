@@ -65,7 +65,7 @@ const TIMELINE_DATA = [
     nationality: "Шотландия",
     description:
       "Физик Максвелл продемонстрировал первую стойкую цветную фотографию, используя три отдельных снимка через красный, зелёный и синий светофильтры — принцип RGB, которым мы пользуемся до сих пор.",
-    image: "https://cdn.poehali.dev/projects/7c3e8a2d-9a1e-4962-b27a-20102d9e796f/files/f50222aa-586e-494c-b037-9f104f37429e.jpg",
+    image: "https://cdn.poehali.dev/files/2ca21212-0970-4cb4-9d3b-359700867a6b.jpg",
     imageCaption: "Тартановая лента — первая цветная фотография, 1861",
     type: "invention",
   },
@@ -78,8 +78,8 @@ const TIMELINE_DATA = [
     description:
       "Истман выпустил камеру Kodak No. 1 со слоганом «Вы нажимаете кнопку, мы делаем остальное». За $25 любой человек мог фотографировать. Фотография перестала быть уделом профессионалов.",
     quote: "Вы нажимаете кнопку — мы делаем остальное.",
-    image: "https://cdn.poehali.dev/projects/7c3e8a2d-9a1e-4962-b27a-20102d9e796f/files/749f86f8-c6ef-45c1-af42-cb68502138eb.jpg",
-    imageCaption: "Kodak No. 1, 1888 — камера, изменившая мир",
+    image: "https://cdn.poehali.dev/files/1aa3b84d-b832-4cc5-866f-881053f8bcaa.jpg",
+    imageCaption: "Kodak No. 2 в оригинальной упаковке, ~1888",
     type: "milestone",
   },
   {
@@ -90,8 +90,8 @@ const TIMELINE_DATA = [
     nationality: "Франция",
     description:
       "На рубеже веков Атже начал методично снимать исчезающий Париж — дворы, улицы, витрины, ремесленников. За 30 лет он создал более 10 000 снимков. Сюрреалисты боготворили его.",
-    image: "https://cdn.poehali.dev/projects/7c3e8a2d-9a1e-4962-b27a-20102d9e796f/files/88e32404-67ff-4f5a-a5eb-6f80fbad86fe.jpg",
-    imageCaption: "Версаль, бассейн Нептуна. Эжен Атже, ~1905",
+    image: "https://cdn.poehali.dev/files/26f894c2-b151-4f4d-81be-5018cb819d4c.jpg",
+    imageCaption: "Газетный киоск, Париж. Эжен Атже, ~1900",
     type: "master",
   },
   {
@@ -103,8 +103,8 @@ const TIMELINE_DATA = [
     description:
       "Стиглиц основал журнал Camera Work и доказал, что фотография — самостоятельное искусство. Его снимок «Конечная станция» перевернул представления о документальности. Он открыл галерею 291 в Нью-Йорке.",
     quote: "Я фотографирую облака, чтобы понять, как фотографировать.",
-    image: "https://cdn.poehali.dev/projects/7c3e8a2d-9a1e-4962-b27a-20102d9e796f/files/789f2ce4-11cb-469e-a5ad-16c87685db8b.jpg",
-    imageCaption: "Конечная станция, Нью-Йорк, 1893",
+    image: "https://cdn.poehali.dev/files/13058e83-1bce-4425-b5a8-93d786c28377.jpg",
+    imageCaption: "В стюартессе. Альфред Стиглиц, 1907",
     type: "master",
   },
   {
@@ -115,8 +115,8 @@ const TIMELINE_DATA = [
     nationality: "Германия",
     description:
       "Барнак создал Leica — компактную 35-мм камеру. Она стала оружием репортажной фотографии: можно было снимать незаметно, быстро, всюду. Именно с ней работали Картье-Брессон и Капа.",
-    image: "https://cdn.poehali.dev/projects/7c3e8a2d-9a1e-4962-b27a-20102d9e796f/files/519e24d7-0f64-4b68-b34e-2c823a7d746e.jpg",
-    imageCaption: "Leica I, 1925",
+    image: "https://cdn.poehali.dev/files/1025244e-0046-4aa3-a09c-9dc3d420c505.jpg",
+    imageCaption: "Leica — прототип, ~1925",
     type: "invention",
   },
   {
@@ -128,8 +128,8 @@ const TIMELINE_DATA = [
     description:
       "Картье-Брессон разработал концепцию «решающего момента» — мгновения, когда форма и содержание сливаются в совершенный снимок. С Leica в руках он стал свидетелем истории XX века.",
     quote: "Фотография — одновременное признание смысла события и точной организации форм.",
-    image: "https://cdn.poehali.dev/projects/7c3e8a2d-9a1e-4962-b27a-20102d9e796f/files/efed2898-57c0-474c-afb7-8e55b0553f90.jpg",
-    imageCaption: "Йер, Франция, 1932",
+    image: "https://cdn.poehali.dev/files/3ee90747-3c6b-4f9f-a2a0-ba68fca30580.jpg",
+    imageCaption: "За вокзалом Сен-Лазар, Париж. Картье-Брессон, 1932",
     type: "master",
     featured: true,
   },
@@ -182,7 +182,7 @@ const TIMELINE_DATA = [
     description:
       "Адамс создал «Зональную систему» — научный метод контроля тональности в чёрно-белой фотографии. Его пейзажи Йосемити стали символом величия американской природы и определили стандарты пейзажной фотографии.",
     quote: "Визуализируй конечный результат до нажатия затвора.",
-    image: "https://cdn.poehali.dev/projects/7c3e8a2d-9a1e-4962-b27a-20102d9e796f/files/129bf85b-e013-429f-bd2d-03f514977c6b.jpg",
+    image: "https://cdn.poehali.dev/files/82946fab-cb6c-48ca-b0b2-7ee325e05a5b.jpg",
     imageCaption: "Восход луны над Эрнандесом. Ансель Адамс, 1941",
     type: "master",
     featured: true,
@@ -196,8 +196,8 @@ const TIMELINE_DATA = [
     description:
       "MoMA впервые устроил персональную выставку цветной фотографии. Эгглстон первым превратил цвет в высокое искусство. До него цвет считался коммерческим — он изменил отношение арт-мира к фотографии навсегда.",
     quote: "Я снимаю всё с одинаковым вниманием.",
-    image: "https://cdn.poehali.dev/projects/7c3e8a2d-9a1e-4962-b27a-20102d9e796f/files/8f0f856a-db7d-4b4e-b6fe-a98f70e1eb52.jpg",
-    imageCaption: "Атланта, интерьер, ~1965",
+    image: "https://cdn.poehali.dev/files/507fc977-39f6-44a3-b41b-d73c330ac6fc.jpg",
+    imageCaption: "Красная комната. Уильям Эгглстон, ~1973",
     type: "master",
   },
   {
@@ -208,7 +208,7 @@ const TIMELINE_DATA = [
     nationality: "США",
     description:
       "Снимок Базза Олдрина на Луне — одна из самых известных фотографий в истории. Иронично, что Армстронг держал камеру большую часть экспедиции, а сам почти не попал в кадр.",
-    image: "https://cdn.poehali.dev/projects/7c3e8a2d-9a1e-4962-b27a-20102d9e796f/files/f53bb0d4-8849-4f10-81fc-aa7e1d4392a6.jpg",
+    image: "https://cdn.poehali.dev/files/1e5ac15e-0177-479e-9919-397dcc516f62.jpg",
     imageCaption: "Базз Олдрин на Луне, 20 июля 1969",
     imageNote: "В отражении шлема можно различить Нила Армстронга с камерой",
     type: "milestone",
@@ -237,8 +237,8 @@ const TIMELINE_DATA = [
     nationality: "США",
     description:
       "Adobe Photoshop 1.0 вышел в феврале 1990 года. Впервые изображение можно было редактировать после съёмки неограниченно. Это породило новый вопрос: где граница между фотографией и иллюстрацией?",
-    image: "https://cdn.poehali.dev/projects/7c3e8a2d-9a1e-4962-b27a-20102d9e796f/files/e3bae115-63bd-4a7b-9ea8-9c6633946358.jpg",
-    imageCaption: "Photoshop 1.0, 1990 — начало новой эры",
+    image: "https://cdn.poehali.dev/files/891e4814-79aa-4a8e-b4f7-6b84bb97fb02.jpg",
+    imageCaption: "Adobe Photoshop 1.0, 1990 — оригинальная коробка",
     type: "invention",
   },
   {
@@ -249,7 +249,7 @@ const TIMELINE_DATA = [
     nationality: "Япония",
     description:
       "Nikon D1 стала первой цифровой зеркальной камерой для профессионалов по доступной цене. За несколько лет плёнка почти исчезла из редакций по всему миру.",
-    image: "https://cdn.poehali.dev/projects/7c3e8a2d-9a1e-4962-b27a-20102d9e796f/files/635ab7de-0652-4d9e-87f8-eba58c73c92a.jpg",
+    image: "https://cdn.poehali.dev/files/80267bdf-fc6e-4ac3-9520-e8fe8ae976ce.jpg",
     imageCaption: "Nikon D1, 1999",
     type: "invention",
   },
