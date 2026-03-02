@@ -463,6 +463,21 @@ export default function Index() {
           От первого снимка на оловянной пластине до эпохи искусственного интеллекта
         </p>
 
+        <p
+          className="font-mono-custom animate-fade-in"
+          style={{
+            fontSize: "0.75rem",
+            letterSpacing: "0.3em",
+            textTransform: "uppercase",
+            color: "#5a4632",
+            marginTop: "2rem",
+            animationDelay: "1s",
+            opacity: 0,
+          }}
+        >
+          Рожнов Сергей
+        </p>
+
         <div
           className="absolute bottom-10 left-1/2 -translate-x-1/2 flex flex-col items-center gap-2 animate-fade-in"
           style={{ animationDelay: "1.4s", opacity: 0 }}
