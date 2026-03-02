@@ -261,8 +261,8 @@ const TIMELINE_DATA = [
     nationality: "США",
     description:
       "Первый iPhone запустил эру мобильной фотографии. Через несколько лет смартфоны стали самыми используемыми камерами в мире. Сегодня ежегодно делается более 1,7 триллиона фотографий.",
-    image: "https://cdn.poehali.dev/projects/7c3e8a2d-9a1e-4962-b27a-20102d9e796f/files/c0a7a479-0754-441f-b05c-0f2a0fb73e3c.jpg",
-    imageCaption: "iPhone 1, 2007 — камера в кармане у каждого",
+    image: "https://cdn.poehali.dev/files/bf3a8e99-d8b0-4496-9a6d-e8f9b462a66f.jpg",
+    imageCaption: "Стив Джобс представляет iPhone, январь 2007",
     type: "milestone",
   },
   {
