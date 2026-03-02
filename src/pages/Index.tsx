@@ -756,6 +756,74 @@ export default function Index() {
           С момента первого снимка Ньепса в 1826 году человечество сделало более 12 триллионов фотографий
         </p>
       </footer>
+
+      {/* CTA Banner */}
+      <section
+        className="relative w-full overflow-hidden"
+        style={{ minHeight: "420px" }}
+      >
+        <div
+          className="absolute inset-0 bg-cover bg-center"
+          style={{
+            backgroundImage: "url(https://cdn.poehali.dev/files/d3708a64-374f-4545-b9bd-2073481bd798.jpg)",
+            filter: "brightness(0.35)",
+          }}
+        />
+        <div
+          className="absolute inset-0"
+          style={{ background: "linear-gradient(to bottom, rgba(10,8,6,0.4) 0%, rgba(10,8,6,0.6) 100%)" }}
+        />
+        <div className="relative z-10 flex flex-col items-center justify-center text-center px-6 py-24 gap-6">
+          <p
+            className="font-mono-custom text-xs tracking-[0.4em] uppercase"
+            style={{ color: "#8b6f47" }}
+          >
+            Уроки фотографии · Рожнов Сергей
+          </p>
+          <h2
+            className="font-cormorant"
+            style={{
+              fontSize: "clamp(2rem, 6vw, 3.5rem)",
+              fontWeight: 300,
+              color: "#e8dcc8",
+              lineHeight: 1.2,
+              maxWidth: "700px",
+            }}
+          >
+            Если любишь фотографию,<br />
+            <em style={{ color: "#c4a882" }}>присоединяйся к крупнейшему сообществу фотографов</em>
+          </h2>
+          <a
+            href="https://vk.com/fotoklubpro"
+            target="_blank"
+            rel="noopener noreferrer"
+            style={{
+              marginTop: "1rem",
+              padding: "0.9rem 2.8rem",
+              border: "1px solid #c4a882",
+              color: "#c4a882",
+              fontFamily: "inherit",
+              fontSize: "0.75rem",
+              letterSpacing: "0.35em",
+              textTransform: "uppercase",
+              textDecoration: "none",
+              transition: "all 0.3s ease",
+              backgroundColor: "transparent",
+              cursor: "pointer",
+            }}
+            onMouseEnter={e => {
+              (e.currentTarget as HTMLAnchorElement).style.backgroundColor = "#c4a882";
+              (e.currentTarget as HTMLAnchorElement).style.color = "#0f0d0b";
+            }}
+            onMouseLeave={e => {
+              (e.currentTarget as HTMLAnchorElement).style.backgroundColor = "transparent";
+              (e.currentTarget as HTMLAnchorElement).style.color = "#c4a882";
+            }}
+          >
+            Присоединиться
+          </a>
+        </div>
+      </section>
     </div>
   );
 }
