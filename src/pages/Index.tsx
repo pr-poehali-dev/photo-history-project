@@ -237,8 +237,8 @@ const TIMELINE_DATA = [
     nationality: "США",
     description:
       "Adobe Photoshop 1.0 вышел в феврале 1990 года. Впервые изображение можно было редактировать после съёмки неограниченно. Это породило новый вопрос: где граница между фотографией и иллюстрацией?",
-    image: "https://cdn.poehali.dev/files/891e4814-79aa-4a8e-b4f7-6b84bb97fb02.jpg",
-    imageCaption: "Adobe Photoshop 1.0, 1990 — оригинальная коробка",
+    image: "https://cdn.poehali.dev/files/a14d5775-1718-4681-b749-f0aad4729b76.jpg",
+    imageCaption: "Интерфейс Adobe Photoshop 1.0, 1990",
     type: "invention",
   },
   {
