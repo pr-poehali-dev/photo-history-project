@@ -12,7 +12,9 @@ const TIMELINE_DATA = [
     quote: "Природа сама рисует себя светом.",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/1826_NiepceTakenFromGraslin.png/800px-1826_NiepceTakenFromGraslin.png",
     imageCaption: "Вид из окна в Ле-Гра, 1826",
+    imageNote: "Выдержка длилась около 8 часов — поэтому солнце освещает обе стороны зданий",
     type: "milestone",
+    featured: true,
   },
   {
     year: 1839,
@@ -401,10 +403,10 @@ export default function Index() {
         <p
           className="font-cormorant mt-6 animate-fade-in"
           style={{
-            fontSize: "clamp(1rem, 2.5vw, 1.25rem)",
+            fontSize: "clamp(1.1rem, 2.8vw, 1.4rem)",
             color: "#8b7055",
             fontStyle: "italic",
-            maxWidth: "420px",
+            maxWidth: "480px",
             lineHeight: 1.7,
             animationDelay: "0.8s",
             opacity: 0,
@@ -562,7 +564,7 @@ export default function Index() {
                 <h2
                   className="font-cormorant mb-1"
                   style={{
-                    fontSize: "clamp(1.1rem, 2.5vw, 1.4rem)",
+                    fontSize: "clamp(1.3rem, 3vw, 1.75rem)",
                     fontWeight: 600,
                     color: "#e8dcc8",
                     lineHeight: 1.3,
@@ -574,7 +576,7 @@ export default function Index() {
                 {/* Photographer */}
                 <p
                   className="font-cormorant italic mb-4"
-                  style={{ fontSize: "0.95rem", color: "#8b7055" }}
+                  style={{ fontSize: "1.1rem", color: "#8b7055" }}
                 >
                   {item.photographer}
                   {item.nationality && (
@@ -603,7 +605,7 @@ export default function Index() {
                       <p
                         className="font-mono-custom mt-2"
                         style={{
-                          fontSize: "0.6rem",
+                          fontSize: "0.68rem",
                           color: "#5a4632",
                           letterSpacing: "0.06em",
                           textTransform: "uppercase",
@@ -615,7 +617,7 @@ export default function Index() {
                     {item.imageNote && (
                       <p
                         className="font-cormorant italic mt-1"
-                        style={{ fontSize: "0.8rem", color: "#7a5c3a" }}
+                        style={{ fontSize: "0.95rem", color: "#7a5c3a" }}
                       >
                         {item.imageNote}
                       </p>
@@ -627,9 +629,9 @@ export default function Index() {
                 <p
                   className="font-cormorant mb-4"
                   style={{
-                    fontSize: "clamp(0.95rem, 1.8vw, 1.05rem)",
+                    fontSize: "clamp(1.05rem, 2vw, 1.2rem)",
                     color: "#a89070",
-                    lineHeight: 1.8,
+                    lineHeight: 1.85,
                   }}
                 >
                   {item.description}
@@ -646,9 +648,9 @@ export default function Index() {
                     <p
                       className="font-cormorant italic"
                       style={{
-                        fontSize: "clamp(0.9rem, 1.6vw, 1rem)",
+                        fontSize: "clamp(1rem, 1.8vw, 1.15rem)",
                         color: "#7a6050",
-                        lineHeight: 1.65,
+                        lineHeight: 1.7,
                       }}
                     >
                       «{item.quote}»
