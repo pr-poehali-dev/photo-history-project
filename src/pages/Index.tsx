@@ -169,8 +169,8 @@ const TIMELINE_DATA = [
     nationality: "США",
     description:
       "Куратор MoMA собрал 503 фотографии 273 фотографов из 68 стран. Выставка «Семья человека» стала самой посещаемой в истории музея — 9 миллионов зрителей по всему миру увидели универсальность человеческого опыта.",
-    image: "https://cdn.poehali.dev/projects/7c3e8a2d-9a1e-4962-b27a-20102d9e796f/files/3157d657-0749-400e-9544-489a41021fb1.jpg",
-    imageCaption: "Эдвард Стейхен, куратор выставки",
+    image: "https://cdn.poehali.dev/files/cfdd9bd4-5d30-4ae9-92b8-eaf2add6de8d.jpg",
+    imageCaption: "Афиша выставки «Семья человека», MoMA, 1955",
     type: "milestone",
   },
   {
