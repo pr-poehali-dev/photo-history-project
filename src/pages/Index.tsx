@@ -324,18 +324,7 @@ const TIMELINE_DATA = [
     imageCaption: "Стив Джобс представляет iPhone, январь 2007",
     type: "milestone",
   },
-  {
-    year: 2010,
-    era: "Мобильная эра",
-    title: "Instagram — визуальный язык поколения",
-    photographer: "Кевин Систром и Майк Кригер",
-    nationality: "США",
-    description:
-      "Instagram создал новый визуальный язык: квадратный кадр, фильтры, мгновенная публикация. Он превратил каждого пользователя смартфона в фотографа и переопределил понятие «хорошего снимка».",
-    image: "https://cdn.poehali.dev/projects/7c3e8a2d-9a1e-4962-b27a-20102d9e796f/files/7f95ac09-c933-41bb-8dcb-5d4b20629511.jpg",
-    imageCaption: "Instagram, 2010",
-    type: "milestone",
-  },
+
   {
     year: 2023,
     era: "ИИ-эра",
