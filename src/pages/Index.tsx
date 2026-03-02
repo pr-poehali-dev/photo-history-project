@@ -131,7 +131,7 @@ const TIMELINE_DATA = [
     description:
       "Родченко перевернул язык фотографии: диагональные ракурсы, съёмка снизу и сверху, геометрия в кадре. Он снимал заводы, спортсменов, улицы — и превращал обычное в манифест нового мышления. Его работы до сих пор цитируют дизайнеры по всему миру.",
     quote: "Фотографируй сверху, снизу, наискосок — только не с высоты собственного пупа.",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Rodchenko_-_Pioneer_girl_%281930%29.jpg/800px-Rodchenko_-_Pioneer_girl_%281930%29.jpg",
+    image: "https://cdn.poehali.dev/files/f9040c61-5c6d-4b70-bef8-ffa2537ab712.jpg",
     imageCaption: "Пионерка. Александр Родченко, 1930",
     type: "master",
     featured: true,
