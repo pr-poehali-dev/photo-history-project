@@ -53,8 +53,8 @@ const TIMELINE_DATA = [
     description:
       "Фентон стал первым официальным военным фотографом — он снимал Крымскую войну. Его 360 снимков изменили отношение общества к войне: люди впервые увидели её настоящее лицо.",
     quote: "Камера не лжёт — но фотограф решает, что показать.",
-    image: "https://cdn.poehali.dev/projects/7c3e8a2d-9a1e-4962-b27a-20102d9e796f/files/633ff843-7d88-4746-b0fd-21bb84becd42.jpg",
-    imageCaption: "Крымская война, 1855",
+    image: "https://cdn.poehali.dev/files/b5ff8a61-f381-4294-b190-d89a4b66e7fb.jpg",
+    imageCaption: "Турецкие солдаты. Роджер Фентон, Крымская война, 1855",
     type: "documentary",
   },
   {
