@@ -564,10 +564,10 @@ export default function Index() {
                 <h2
                   className="font-cormorant mb-1"
                   style={{
-                    fontSize: "clamp(1.3rem, 3vw, 1.75rem)",
+                    fontSize: "clamp(1.95rem, 4.5vw, 2.6rem)",
                     fontWeight: 600,
                     color: "#e8dcc8",
-                    lineHeight: 1.3,
+                    lineHeight: 1.25,
                   }}
                 >
                   {item.title}
@@ -576,7 +576,7 @@ export default function Index() {
                 {/* Photographer */}
                 <p
                   className="font-cormorant italic mb-4"
-                  style={{ fontSize: "1.1rem", color: "#8b7055" }}
+                  style={{ fontSize: "1.65rem", color: "#8b7055" }}
                 >
                   {item.photographer}
                   {item.nationality && (
@@ -605,7 +605,7 @@ export default function Index() {
                       <p
                         className="font-mono-custom mt-2"
                         style={{
-                          fontSize: "0.68rem",
+                          fontSize: "0.85rem",
                           color: "#5a4632",
                           letterSpacing: "0.06em",
                           textTransform: "uppercase",
@@ -617,7 +617,7 @@ export default function Index() {
                     {item.imageNote && (
                       <p
                         className="font-cormorant italic mt-1"
-                        style={{ fontSize: "0.95rem", color: "#7a5c3a" }}
+                        style={{ fontSize: "1.4rem", color: "#7a5c3a" }}
                       >
                         {item.imageNote}
                       </p>
@@ -629,7 +629,7 @@ export default function Index() {
                 <p
                   className="font-cormorant mb-4"
                   style={{
-                    fontSize: "clamp(1.05rem, 2vw, 1.2rem)",
+                    fontSize: "clamp(1.55rem, 3vw, 1.8rem)",
                     color: "#a89070",
                     lineHeight: 1.85,
                   }}
@@ -648,7 +648,7 @@ export default function Index() {
                     <p
                       className="font-cormorant italic"
                       style={{
-                        fontSize: "clamp(1rem, 1.8vw, 1.15rem)",
+                        fontSize: "clamp(1.5rem, 2.7vw, 1.75rem)",
                         color: "#7a6050",
                         lineHeight: 1.7,
                       }}
