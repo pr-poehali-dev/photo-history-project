@@ -25,12 +25,11 @@ const TIMELINE_DATA = [
     description:
       "7 января 1839 года Французская академия наук объявила об изобретении дагерротипа. Впервые в истории обычный человек мог получить точный портрет менее чем за 30 минут.",
     quote: "Отныне солнечный свет сам рисует портреты.",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Boulevard_du_Temple_by_Daguerre.jpg/800px-Boulevard_du_Temple_by_Daguerre.jpg",
+    image: "https://cdn.poehali.dev/projects/7c3e8a2d-9a1e-4962-b27a-20102d9e796f/files/fd492a8f-0236-4032-9750-f501768c811c.jpg",
     imageCaption: "Бульвар дю Тампль, Париж. Первая фотография человека, 1838",
     imageNote: "На этом снимке впервые запечатлён живой человек — чистильщик сапог",
     type: "milestone",
     featured: true,
-    featuredImage: "https://cdn.poehali.dev/projects/7c3e8a2d-9a1e-4962-b27a-20102d9e796f/files/13e0d2de-91cf-4759-abb2-f9fd4df3acb2.jpg",
   },
   {
     year: 1841,
@@ -41,7 +40,7 @@ const TIMELINE_DATA = [
     description:
       "Тальбот запатентовал негативно-позитивный процесс: один негатив позволял делать множество отпечатков. Именно этот принцип стал основой фотографии на следующие 150 лет.",
     quote: "Карандаш природы — так я назвал свою книгу, первую иллюстрированную фотографиями.",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Talbot_-_Open_Door_1844.jpg/600px-Talbot_-_Open_Door_1844.jpg",
+    image: "https://cdn.poehali.dev/projects/7c3e8a2d-9a1e-4962-b27a-20102d9e796f/files/91e5018e-38dc-4369-ba46-b1e46d1d2911.jpg",
     imageCaption: "Открытая дверь, 1844 — один из снимков книги «Карандаш природы»",
     type: "invention",
   },
@@ -54,7 +53,7 @@ const TIMELINE_DATA = [
     description:
       "Фентон стал первым официальным военным фотографом — он снимал Крымскую войну. Его 360 снимков изменили отношение общества к войне: люди впервые увидели её настоящее лицо.",
     quote: "Камера не лжёт — но фотограф решает, что показать.",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Felice_Beato_and_James_Robertson%2C_Balaclava_Harbour%2C_Crimea_1855.jpg/800px-Felice_Beato_and_James_Robertson%2C_Balaclava_Harbour%2C_Crimea_1855.jpg",
+    image: "https://cdn.poehali.dev/projects/7c3e8a2d-9a1e-4962-b27a-20102d9e796f/files/633ff843-7d88-4746-b0fd-21bb84becd42.jpg",
     imageCaption: "Крымская война, 1855",
     type: "documentary",
   },
@@ -66,7 +65,7 @@ const TIMELINE_DATA = [
     nationality: "Шотландия",
     description:
       "Физик Максвелл продемонстрировал первую стойкую цветную фотографию, используя три отдельных снимка через красный, зелёный и синий светофильтры — принцип RGB, которым мы пользуемся до сих пор.",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/TartanRibbon.jpg/600px-TartanRibbon.jpg",
+    image: "https://cdn.poehali.dev/projects/7c3e8a2d-9a1e-4962-b27a-20102d9e796f/files/f50222aa-586e-494c-b037-9f104f37429e.jpg",
     imageCaption: "Тартановая лента — первая цветная фотография, 1861",
     type: "invention",
   },
@@ -79,7 +78,7 @@ const TIMELINE_DATA = [
     description:
       "Истман выпустил камеру Kodak No. 1 со слоганом «Вы нажимаете кнопку, мы делаем остальное». За $25 любой человек мог фотографировать. Фотография перестала быть уделом профессионалов.",
     quote: "Вы нажимаете кнопку — мы делаем остальное.",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kodak_no1.jpg/600px-Kodak_no1.jpg",
+    image: "https://cdn.poehali.dev/projects/7c3e8a2d-9a1e-4962-b27a-20102d9e796f/files/749f86f8-c6ef-45c1-af42-cb68502138eb.jpg",
     imageCaption: "Kodak No. 1, 1888 — камера, изменившая мир",
     type: "milestone",
   },
@@ -91,7 +90,7 @@ const TIMELINE_DATA = [
     nationality: "Франция",
     description:
       "На рубеже веков Атже начал методично снимать исчезающий Париж — дворы, улицы, витрины, ремесленников. За 30 лет он создал более 10 000 снимков. Сюрреалисты боготворили его.",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Atget_-_Versailles_-_Bassin_de_Neptune.jpg/800px-Atget_-_Versailles_-_Bassin_de_Neptune.jpg",
+    image: "https://cdn.poehali.dev/projects/7c3e8a2d-9a1e-4962-b27a-20102d9e796f/files/88e32404-67ff-4f5a-a5eb-6f80fbad86fe.jpg",
     imageCaption: "Версаль, бассейн Нептуна. Эжен Атже, ~1905",
     type: "master",
   },
@@ -104,7 +103,7 @@ const TIMELINE_DATA = [
     description:
       "Стиглиц основал журнал Camera Work и доказал, что фотография — самостоятельное искусство. Его снимок «Конечная станция» перевернул представления о документальности. Он открыл галерею 291 в Нью-Йорке.",
     quote: "Я фотографирую облака, чтобы понять, как фотографировать.",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/The-terminal-1893.jpg/800px-The-terminal-1893.jpg",
+    image: "https://cdn.poehali.dev/projects/7c3e8a2d-9a1e-4962-b27a-20102d9e796f/files/789f2ce4-11cb-469e-a5ad-16c87685db8b.jpg",
     imageCaption: "Конечная станция, Нью-Йорк, 1893",
     type: "master",
   },
@@ -116,7 +115,7 @@ const TIMELINE_DATA = [
     nationality: "Германия",
     description:
       "Барнак создал Leica — компактную 35-мм камеру. Она стала оружием репортажной фотографии: можно было снимать незаметно, быстро, всюду. Именно с ней работали Картье-Брессон и Капа.",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Leica_I.jpg/600px-Leica_I.jpg",
+    image: "https://cdn.poehali.dev/projects/7c3e8a2d-9a1e-4962-b27a-20102d9e796f/files/519e24d7-0f64-4b68-b34e-2c823a7d746e.jpg",
     imageCaption: "Leica I, 1925",
     type: "invention",
   },
@@ -129,7 +128,7 @@ const TIMELINE_DATA = [
     description:
       "Картье-Брессон разработал концепцию «решающего момента» — мгновения, когда форма и содержание сливаются в совершенный снимок. С Leica в руках он стал свидетелем истории XX века.",
     quote: "Фотография — одновременное признание смысла события и точной организации форм.",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Henri_Cartier-Bresson_-_Hyeres%2C_France_-_1932.jpg/600px-Henri_Cartier-Bresson_-_Hyeres%2C_France_-_1932.jpg",
+    image: "https://cdn.poehali.dev/projects/7c3e8a2d-9a1e-4962-b27a-20102d9e796f/files/efed2898-57c0-474c-afb7-8e55b0553f90.jpg",
     imageCaption: "Йер, Франция, 1932",
     type: "master",
     featured: true,
@@ -143,7 +142,7 @@ const TIMELINE_DATA = [
     description:
       "«Мать-мигрантка» Доротеи Ланге стала символом Великой депрессии. Эта фотография изменила государственную политику — после публикации правительство срочно выделило 20 тонн продовольствия для лагеря.",
     quote: "Камера — инструмент, который учит людей видеть без камеры.",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Lange-MigrantMother02.jpg/600px-Lange-MigrantMother02.jpg",
+    image: "https://cdn.poehali.dev/projects/7c3e8a2d-9a1e-4962-b27a-20102d9e796f/files/98487ac0-9f21-499d-93f1-27c4c136c9ef.jpg",
     imageCaption: "Мать-мигрантка, Калифорния, 1936",
     imageNote: "Одна из самых воспроизводимых фотографий в истории",
     type: "documentary",
@@ -158,7 +157,7 @@ const TIMELINE_DATA = [
     description:
       "Четыре великих фотографа основали первое фотоагентство, принадлежащее самим фотографам. Magnum стал синонимом честной документальной фотографии и воспитал несколько поколений мастеров.",
     quote: "Если твои снимки недостаточно хороши — ты недостаточно близко. (Роберт Капа)",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Death_of_a_Loyalist_Militiaman.jpg/800px-Death_of_a_Loyalist_Militiaman.jpg",
+    image: "https://cdn.poehali.dev/projects/7c3e8a2d-9a1e-4962-b27a-20102d9e796f/files/0a181442-38d8-4ba1-955f-969c57b84894.jpg",
     imageCaption: "Смерть республиканца. Роберт Капа, Испания, 1936",
     type: "milestone",
   },
@@ -170,7 +169,7 @@ const TIMELINE_DATA = [
     nationality: "США",
     description:
       "Куратор MoMA собрал 503 фотографии 273 фотографов из 68 стран. Выставка «Семья человека» стала самой посещаемой в истории музея — 9 миллионов зрителей по всему миру увидели универсальность человеческого опыта.",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Edward_Steichen.jpg/600px-Edward_Steichen.jpg",
+    image: "https://cdn.poehali.dev/projects/7c3e8a2d-9a1e-4962-b27a-20102d9e796f/files/3157d657-0749-400e-9544-489a41021fb1.jpg",
     imageCaption: "Эдвард Стейхен, куратор выставки",
     type: "milestone",
   },
@@ -183,7 +182,7 @@ const TIMELINE_DATA = [
     description:
       "Адамс создал «Зональную систему» — научный метод контроля тональности в чёрно-белой фотографии. Его пейзажи Йосемити стали символом величия американской природы и определили стандарты пейзажной фотографии.",
     quote: "Визуализируй конечный результат до нажатия затвора.",
-    image: "https://cdn.poehali.dev/projects/7c3e8a2d-9a1e-4962-b27a-20102d9e796f/files/0388d4b9-dc5b-4cdb-8e54-a52745e2999d.jpg",
+    image: "https://cdn.poehali.dev/projects/7c3e8a2d-9a1e-4962-b27a-20102d9e796f/files/129bf85b-e013-429f-bd2d-03f514977c6b.jpg",
     imageCaption: "Восход луны над Эрнандесом. Ансель Адамс, 1941",
     type: "master",
     featured: true,
@@ -197,7 +196,7 @@ const TIMELINE_DATA = [
     description:
       "MoMA впервые устроил персональную выставку цветной фотографии. Эгглстон первым превратил цвет в высокое искусство. До него цвет считался коммерческим — он изменил отношение арт-мира к фотографии навсегда.",
     quote: "Я снимаю всё с одинаковым вниманием.",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Atlanta_interior%2C_Eggleston.jpg/600px-Atlanta_interior%2C_Eggleston.jpg",
+    image: "https://cdn.poehali.dev/projects/7c3e8a2d-9a1e-4962-b27a-20102d9e796f/files/8f0f856a-db7d-4b4e-b6fe-a98f70e1eb52.jpg",
     imageCaption: "Атланта, интерьер, ~1965",
     type: "master",
   },
@@ -209,7 +208,7 @@ const TIMELINE_DATA = [
     nationality: "США",
     description:
       "Снимок Базза Олдрина на Луне — одна из самых известных фотографий в истории. Иронично, что Армстронг держал камеру большую часть экспедиции, а сам почти не попал в кадр.",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Aldrin_Apollo_11_original.jpg/600px-Aldrin_Apollo_11_original.jpg",
+    image: "https://cdn.poehali.dev/projects/7c3e8a2d-9a1e-4962-b27a-20102d9e796f/files/f53bb0d4-8849-4f10-81fc-aa7e1d4392a6.jpg",
     imageCaption: "Базз Олдрин на Луне, 20 июля 1969",
     imageNote: "В отражении шлема можно различить Нила Армстронга с камерой",
     type: "milestone",
@@ -238,7 +237,7 @@ const TIMELINE_DATA = [
     nationality: "США",
     description:
       "Adobe Photoshop 1.0 вышел в феврале 1990 года. Впервые изображение можно было редактировать после съёмки неограниченно. Это породило новый вопрос: где граница между фотографией и иллюстрацией?",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/600px-Adobe_Photoshop_CC_icon.svg.png",
+    image: "https://cdn.poehali.dev/projects/7c3e8a2d-9a1e-4962-b27a-20102d9e796f/files/e3bae115-63bd-4a7b-9ea8-9c6633946358.jpg",
     imageCaption: "Photoshop 1.0, 1990 — начало новой эры",
     type: "invention",
   },
@@ -250,7 +249,7 @@ const TIMELINE_DATA = [
     nationality: "Япония",
     description:
       "Nikon D1 стала первой цифровой зеркальной камерой для профессионалов по доступной цене. За несколько лет плёнка почти исчезла из редакций по всему миру.",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Nikon_D1.jpg/600px-Nikon_D1.jpg",
+    image: "https://cdn.poehali.dev/projects/7c3e8a2d-9a1e-4962-b27a-20102d9e796f/files/635ab7de-0652-4d9e-87f8-eba58c73c92a.jpg",
     imageCaption: "Nikon D1, 1999",
     type: "invention",
   },
@@ -262,7 +261,7 @@ const TIMELINE_DATA = [
     nationality: "США",
     description:
       "Первый iPhone запустил эру мобильной фотографии. Через несколько лет смартфоны стали самыми используемыми камерами в мире. Сегодня ежегодно делается более 1,7 триллиона фотографий.",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/IPhone_1st_Gen.svg/400px-IPhone_1st_Gen.svg.png",
+    image: "https://cdn.poehali.dev/projects/7c3e8a2d-9a1e-4962-b27a-20102d9e796f/files/c0a7a479-0754-441f-b05c-0f2a0fb73e3c.jpg",
     imageCaption: "iPhone 1, 2007 — камера в кармане у каждого",
     type: "milestone",
   },
@@ -274,7 +273,7 @@ const TIMELINE_DATA = [
     nationality: "США",
     description:
       "Instagram создал новый визуальный язык: квадратный кадр, фильтры, мгновенная публикация. Он превратил каждого пользователя смартфона в фотографа и переопределил понятие «хорошего снимка».",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/600px-Instagram_logo_2016.svg.png",
+    image: "https://cdn.poehali.dev/projects/7c3e8a2d-9a1e-4962-b27a-20102d9e796f/files/7f95ac09-c933-41bb-8dcb-5d4b20629511.jpg",
     imageCaption: "Instagram, 2010",
     type: "milestone",
   },
@@ -286,7 +285,7 @@ const TIMELINE_DATA = [
     nationality: "Глобально",
     description:
       "Midjourney, DALL-E и Stable Diffusion создают фотореалистичные изображения из текстовых описаний. Мир спорит: является ли сгенерированное изображение фотографией? Кто его автор — человек или алгоритм?",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/AI_art_example.jpg/600px-AI_art_example.jpg",
+    image: "https://cdn.poehali.dev/projects/7c3e8a2d-9a1e-4962-b27a-20102d9e796f/files/1891ebc6-6cef-4d9f-8e97-24bde6537cc2.jpg",
     imageCaption: "2023 — грань между фотографией и генерацией стёрта",
     type: "milestone",
   },
