@@ -25,9 +25,8 @@ const TIMELINE_DATA = [
     description:
       "7 января 1839 года Французская академия наук объявила об изобретении дагерротипа. Впервые в истории обычный человек мог получить точный портрет менее чем за 30 минут.",
     quote: "Отныне солнечный свет сам рисует портреты.",
-    image: "https://cdn.poehali.dev/projects/7c3e8a2d-9a1e-4962-b27a-20102d9e796f/bucket/b1080156-652c-4393-95ee-955c87e2907b.jpg",
+    image: "https://cdn.poehali.dev/projects/7c3e8a2d-9a1e-4962-b27a-20102d9e796f/bucket/29458586-f01a-4ee2-add8-0c7d069b0af1.jpg",
     imageCaption: "Луи Дагер и его камера-дагерротип, ~1839",
-    imageNote: "На этом снимке впервые запечатлён живой человек — чистильщик сапог",
     type: "milestone",
     featured: true,
   },
